@@ -1,0 +1,6 @@
+*.out
+gmon.out
+perf.data
+perf.data.old
+profiling_result
+perf_result

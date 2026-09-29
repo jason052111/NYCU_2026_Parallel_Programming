@@ -4,3 +4,11 @@ perf.data
 perf.data.old
 profiling_result
 perf_result
+
+# HW1 generated and submission files
+HW1/**/*.o
+HW1/**/myexp
+HW1/**/test_auto_vectorize
+HW1/**/assembly/
+HW1/HW1_*.zip
+HW1/vectorOP.cpp
